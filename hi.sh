@@ -1,2 +1,3 @@
 whoami
 uptime
+pwd
