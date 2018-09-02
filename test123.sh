@@ -1,2 +1,3 @@
 uptime
 ls
+uptime
