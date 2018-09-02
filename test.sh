@@ -1,2 +1,2 @@
-#!/bin/sh
-whoami
+#!/bin/bash
+pwd
