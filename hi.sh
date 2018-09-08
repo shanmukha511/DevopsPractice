@@ -1,4 +1,3 @@
 whoami
 uptime
 pwd
-ls
