@@ -1,4 +1,4 @@
 whoami
 uptime
 ls
-pwd
+
