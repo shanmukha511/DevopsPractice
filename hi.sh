@@ -1,4 +1,2 @@
 whoami
 uptime
-ls
-
